@@ -1,4 +1,14 @@
-### Hi there 👋
+👋
+
+🕶 hi, I'm **CEO Dreamer** Learning AI, Firness, and Sing.  
+I'm gonna try to develop my...  
+
+deep-learning, Python Skill. - I show you guys to my study assignments in this hub.
+Fitness-training skill - here my [fitness_blog](https://m.blog.naver.com/PostList.naver?blogId=bulkup-star_maybe)   
+
+Nice to meet you
+Be Happy to meet me!
+
 
 <!--
 **xman227/xman227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
