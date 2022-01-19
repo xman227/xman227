@@ -10,11 +10,12 @@
 
 👋
 
-🕶 hi, I'm **CEO Dreamer** Learning AI, Firness, and Sing.  
+🕶 hi, I'm **CEO Dreamer** Learning AI, Firness, and Sing.  <br>
 I'm gonna try to develop my...  
+<br>
 
-✒ Deep-learning, Python Skill.
-💪 🏽Fitness-training Skill  
+✒ Deep-learning, Python Skill. <br>
+💪🏽 Fitness-training Skill  
 
 Nice to meet you
 Be Happy to meet me!
