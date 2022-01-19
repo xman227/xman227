@@ -13,8 +13,8 @@
 🕶 hi, I'm **CEO Dreamer** Learning AI, Firness, and Sing.  
 I'm gonna try to develop my...  
 
-deep-learning, Python Skill. - I show you guys to my study assignments in this hub.
-Fitness-training skill - here my [fitness_blog](https://m.blog.naver.com/PostList.naver?blogId=bulkup-star_maybe)   
+✒ Deep-learning, Python Skill.
+💪 🏽Fitness-training Skill  
 
 Nice to meet you
 Be Happy to meet me!
@@ -47,9 +47,9 @@ Be Happy to meet me!
   
 <br>
 
-<h3 align="center"> 📞 Contact to Lil-Park 🧑‍🔧 </h3>
-<p align="center">
-  <a href="https://velog.io/@lilpark"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&link=https://blog.naver.com/bulkup-star_maybe"/></a>&nbsp
+<h3> 📞 Contact to sungmin, Ha </h3>
+<p>
+  <a href="blog.naver.com/bulkup-star_maybe"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&link=https://blog.naver.com/bulkup-star_maybe"/></a>&nbsp
   <a href="mailto:x22z@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=x22z@naver.com"/></a>
 </p>
 
