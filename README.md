@@ -42,7 +42,8 @@ Be Happy to meet me!
 
 <div>
   
-  [![Velog's GitHub stats](https://blog.naver.com/bulkup-star_maybe)](https://blog.naver.com/bulkup-star_maybe)
+ <a href="blog.naver.com/bulkup-star_maybe"><img src="./img/img1.png"/></a>&nbsp
+
   
 </div>
   
