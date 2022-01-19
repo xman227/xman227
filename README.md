@@ -6,6 +6,8 @@
 <br>
 <br>
 
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6667AB&height=100&section=header&text=하&nbsp;성&nbsp;민&fontSize=70&animation=blinking)
+
 👋
 
 🕶 hi, I'm **CEO Dreamer** Learning AI, Firness, and Sing.  
@@ -18,11 +20,6 @@ Nice to meet you
 Be Happy to meet me!
  
 <br>
-<br>
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6667AB&height=100&section=header&text=하&nbsp;성&nbsp;민&fontSize=70&animation=blinking)
-
 
 <h3> Tech Stack </h3>
 
@@ -37,6 +34,7 @@ Be Happy to meet me!
 <h3> 📚 Blog 📖 </h3>
 
 <h4> about Tech </h4>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xman227.github.io/)](https://xman227.github.io/)
 
 <h4> about Fitness </h4>
