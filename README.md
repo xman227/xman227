@@ -21,10 +21,6 @@ Be Happy to meet me!
 <br>
 <br>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xman227.github.io/)](https://xman227.github.io/)
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6667AB&height=100&section=header&text=하&nbsp;성&nbsp;민&fontSize=70&animation=blinking)
 
 
@@ -40,9 +36,13 @@ Be Happy to meet me!
 
 <h3> 📚 Blog 📖 </h3>
 
+<h4> about Tech </h4>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xman227.github.io/)](https://xman227.github.io/)
+
+<h4> about Fitness </h4>
 <div>
   
- <a href="blog.naver.com/bulkup-star_maybe"><img src="./img/img1.png"/></a>&nbsp
+ <a href="blog.naver.com/bulkup-star_maybe"><img src="./img/img1.png" width="200px" height="200px"></img></a>
 
   
 </div>
