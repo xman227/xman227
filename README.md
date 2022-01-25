@@ -36,12 +36,12 @@ Be Happy to meet me!
 
 <h4> about Tech </h4>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xman227.github.io/)](https://xman227.github.io/)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xman227.github.io/)](https://xman227.github.io/)
 
 <h4> about Fitness </h4>
 <div>
   
- <a href="blog.naver.com/bulkup-star_maybe"><img src="./img/img1.png" width="200px" height="200px"></img></a>
+ <a href="http://blog.naver.com/bulkup-star_maybe"><img src="./img/img1.png" width="200px" height="200px"></img></a>
 
   
 </div>
