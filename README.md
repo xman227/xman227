@@ -50,7 +50,7 @@ Be Happy to meet me!
 
 <h3> 📞 Contact to sungmin, Ha </h3>
 <p>
-  <a href="blog.naver.com/bulkup-star_maybe"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&link=https://blog.naver.com/bulkup-star_maybe"/></a>&nbsp
+  <a href="https://xman227.github.io/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&link=https://blog.naver.com/bulkup-star_maybe"/></a>&nbsp
   <a href="mailto:x22z@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=x22z@naver.com"/></a>
 </p>
 
