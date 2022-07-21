@@ -10,7 +10,7 @@
 
 👋
 
-🕶 hi, I'm **CEO Dreamer** Learning AI, Firness, and Sing.  <br>
+🕶 hi. <br>
 I'm gonna try to develop my...  
 <br>
 
