@@ -9,27 +9,16 @@
 👋
 
 🕶 hi. <br>
-I'm gonna try to develop my...  
-<br>
-
+I'm gonna try to develop my...  <br>
 ✒ Deep-learning, Python Skill. <br>
-💪🏽 Fitness-training Skill  
-
-Nice to meet you
-Be Happy to meet me!
- 
+💪🏽      Fitness-training Skill.  
 <br>
-
 <h3> Tech Stack </h3>
-
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
-
-<br>
-
 <h3> 📚 Blog 📖 </h3>
 
 <h4> about Tech </h4>
