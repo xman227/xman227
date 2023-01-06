@@ -6,8 +6,6 @@
 <br>
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6667AB&height=100&section=header&text=하&nbsp;성&nbsp;민&fontSize=70&animation=blinking)
-
 👋
 
 🕶 hi. <br>
