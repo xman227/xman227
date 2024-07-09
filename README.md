@@ -1,10 +1,8 @@
 
 <details>
 <summary>
-  사용하는 tech stack ... 
+  🔍 사용하는 tech stack ... 
 </summary>
-   <br>
-  
 ### AI
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
@@ -44,14 +42,6 @@ I'm gonna try to develop my...  <br>
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xman227.github.io/)](https://xman227.github.io/)
 
-<h4> about Fitness </h4>
-<div>
-  
- <a href="http://blog.naver.com/bulkup-star_maybe"><img src="./img/img1.png" width="200px" height="200px"></img></a>
-
-  
-</div>
-  
 <br>
 
 <h3> 📞 Contact to sungmin, Ha </h3>
