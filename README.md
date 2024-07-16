@@ -38,6 +38,32 @@
 
 ---
 
+<details>
+<summary>
+🏆 수상경력 Awards ...
+</summary>
+  
+
+  - **2022년**
+      - [한국 정보기술학회 "내시균형 기반 그룹 추천 시스템" 우수논문상](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183843)
+      - 인하 인공지능 객체 탐지 해커톤 최우수상
+      - SQLD 취득
+        
+
+  - **2023년**
+      - SK C&C 기업 주도 프로젝트 "인공지능 기반 식단관리 앱 Makeat" 우수상
+      - Chiangmai CAMT HACKATHON "Automation SmartFarm System" Winner 대상
+      - ADsP 취득
+
+  - **2024년**
+      - 펀드투자 권유대행인 취득
+      - 빅데이터 분석기사 (BAE) 취득
+      - 미래에셋 금융서비스 금융인 양성과정 (금융 투자 세일즈) 최우수상 
+      - 삼성 청년 SW 아카데미(SSAFY) 합격
+
+
+</details>
+
 제가 운영하는 블로그는 [오하의 블로그](https://blog.naver.com/bulkup-star_maybe)
 
 현재 싸피 12기 이수 중입니다.
