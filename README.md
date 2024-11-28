@@ -66,6 +66,6 @@
 </details>
 
 ---
-제가 운영하는 블로그는 [오하의 블로그](https://blog.naver.com/bulkup-star_maybe)
+제가 운영하는 블로그는 [오하의 블로그](https://blog.naver.com/oha_27)
 
 현재 싸피 12기 이수 중입니다.
