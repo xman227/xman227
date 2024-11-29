@@ -34,7 +34,7 @@
 |02| [인공지능 식단관리 앱, Makeat](https://play.google.com/store/apps/details?id=com.makeat.makeat&hl=en_US)| PM, 프론트, AI | python, Flutter, AWS | 우수상 |
 |03| [Oak(상추) 자동 재배 키트 서비스, Oak's kindergarden](https://github.com/K-CMAT/Plant-sKinderGarden) | 백엔드, AI | Express.js, FLASK | 대상 |
 |04| [인하대 공지사항, 강의평가 간편확인 서비스, InfoU](https://github.com/INfoU-INHA-for-U/INfoU) | 프론트 | Flutter | |
-|05| [입지기반 부동산 매물 정보제공 서비스](https://github.com/zipchack) | 백엔드,AI | Spring, FAST API | [시연영상](https://www.youtube.com/watch?v=boLV34j1OJk&feature=youtu.be)<br>우수상 |
+|05| [입지기반 부동산 매물 정보제공 서비스](https://github.com/zipchack) | 백엔드,AI | Spring, FAST API | [시연영상](https://www.youtube.com/watch?v=boLV34j1OJk&feature=youtu.be)<br>최우수상 |
 </details>
 
 
