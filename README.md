@@ -46,7 +46,7 @@
 
   - **2022년**
       - [한국 정보기술학회 "내시균형 기반 그룹 추천 시스템" 우수논문상](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183843)
-      - 인하 인공지능 객체 탐지 해커톤 최우수상
+      - 인하 인공지능 객체 탐지 해커톤 최우수상 
       - SQLD 취득
         
 
