@@ -33,7 +33,7 @@
 |01| [강화학습기반 2D 환경 내 물류이동 최적화 에이전트, Urein](https://github.com/xman227/PROJECT-shipment-process-optimization) | AI | python, GCP | |
 |02| 인공지능 식단관리 앱, Makeat| PM, 프론트, AI | python, Flutter, AWS | 우수상 |
 |03| [Oak(상추) 자동 재배 키트 서비스, Oak's kindergarden](https://github.com/K-CMAT/Plant-sKinderGarden) | 백엔드, AI | Express.js, FLASK | 대상 |
-|04| [인하대 공지사항, 강의평가 간편확인 서비스, InfoU](https://github.com/INfoU-INHA-for-U/INfoU) | 프론트 | Flutter | |
+|04| (잠시숨김) | 프론트 | Flutter | |
 |05| [입지기반 부동산 매물 정보제공 서비스](https://github.com/zipchack) | 백엔드,AI | Spring, FAST API | [시연영상](https://www.youtube.com/watch?v=boLV34j1OJk&feature=youtu.be)<br>최우수상 |
 </details>
 
@@ -43,11 +43,6 @@
 🏆 수상경력 Awards ...
 </summary>
   
-
-  - **2022년**
-      - [한국 정보기술학회 "내시균형 기반 그룹 추천 시스템" 우수논문상](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183843)
-      - 인하 인공지능 객체 탐지 해커톤 최우수상 
-      - SQLD 취득
         
 
   - **2023년**
